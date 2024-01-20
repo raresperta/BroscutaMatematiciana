@@ -1,0 +1,48 @@
+.tyle {
+    background-image: url("./lily.png");
+    background-size:cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    margin:0;
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+}
+.possbile {
+    transition: transform 2s ease;
+}
+.tylebutton {
+    background-color: transparent;
+    border:0;
+    margin:0;
+    padding: 0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:50%;
+    cursor:pointer;
+    color:black;
+    height:100%;
+}
+.frog {
+    background-image: url("./frog.png");
+    background-size:contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.frog .content {
+    visibility: hidden;
+}
+.possible:hover {
+    transform: scale(1.2);
+}
+
+.frogOld {
+    visibility: hidden;
+}
+.hidden {
+    opacity: 0;
+    pointer-events: none; 
+}
