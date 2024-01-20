@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/BroscutaMatematiciana/static/css/main.a6b0cb26.css",
-    "main.js": "/BroscutaMatematiciana/static/js/main.d9b13fc6.js",
-    "static/js/787.692a9100.chunk.js": "/BroscutaMatematiciana/static/js/787.692a9100.chunk.js",
-    "static/media/frog.png": "/BroscutaMatematiciana/static/media/frog.612424c8c714af6de31e.png",
-    "static/media/lily.png": "/BroscutaMatematiciana/static/media/lily.5b8d27f682de2e0ad845.png",
-    "static/media/logo.svg": "/BroscutaMatematiciana/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/BroscutaMatematiciana/index.html",
-    "main.a6b0cb26.css.map": "/BroscutaMatematiciana/static/css/main.a6b0cb26.css.map",
-    "main.d9b13fc6.js.map": "/BroscutaMatematiciana/static/js/main.d9b13fc6.js.map",
-    "787.692a9100.chunk.js.map": "/BroscutaMatematiciana/static/js/787.692a9100.chunk.js.map"
+    "main.css": "/BroscutaMatematiciana/mathgame/src/static/css/main.fccf8af2.css",
+    "main.js": "/BroscutaMatematiciana/mathgame/src/static/js/main.a9019cbf.js",
+    "static/js/787.692a9100.chunk.js": "/BroscutaMatematiciana/mathgame/src/static/js/787.692a9100.chunk.js",
+    "static/media/frog.png": "/BroscutaMatematiciana/mathgame/src/static/media/frog.612424c8c714af6de31e.png",
+    "static/media/lily.png": "/BroscutaMatematiciana/mathgame/src/static/media/lily.5b8d27f682de2e0ad845.png",
+    "index.html": "/BroscutaMatematiciana/mathgame/src/index.html",
+    "static/media/logo.svg": "/BroscutaMatematiciana/mathgame/src/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.fccf8af2.css.map": "/BroscutaMatematiciana/mathgame/src/static/css/main.fccf8af2.css.map",
+    "main.a9019cbf.js.map": "/BroscutaMatematiciana/mathgame/src/static/js/main.a9019cbf.js.map",
+    "787.692a9100.chunk.js.map": "/BroscutaMatematiciana/mathgame/src/static/js/787.692a9100.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6b0cb26.css",
-    "static/js/main.d9b13fc6.js"
+    "static/css/main.fccf8af2.css",
+    "static/js/main.a9019cbf.js"
   ]
 }
